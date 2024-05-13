@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Ejercicio1.Construccion;
 
 public class GestorRestaurantes {
     private static GestorRestaurantes instanciaUnica = new GestorDeRestaurantes();

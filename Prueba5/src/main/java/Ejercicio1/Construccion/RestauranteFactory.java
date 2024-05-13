@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Ejercicio1.Construccion;
 
 public class RestauranteFactory {
     public Restaurante getRestaurante(String tipo) {

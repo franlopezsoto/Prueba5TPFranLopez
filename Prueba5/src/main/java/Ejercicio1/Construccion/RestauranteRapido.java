@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Ejercicio1.Construccion;
 
 public class RestauranteRapido implements Restaurante {
     @Override
